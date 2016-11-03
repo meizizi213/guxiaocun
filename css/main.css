@@ -370,7 +370,7 @@ p {
     line-height: 22px;
     text-align: left;
     margin: 0;
-    color: #999 !important;
+    color: #000 !important;
     font-family: 'Lato', sans-serif;
 }
 .active-hi-icon {
@@ -939,7 +939,7 @@ ul.about {
     -webkit-border-radius: 99em;
     -moz-border-radius: 99em;
     border-radius: 99em;
-    background-image: url('../images/img/front.png');
+    /*background-image: url('../images/img/front.png');*/
     margin-top: 25px;
     margin-bottom: 7px;
 }
